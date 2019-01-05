@@ -1,0 +1,12 @@
+{
+  "intro": {
+    "txt": "GameStart",
+    "type": "img",
+    "url": "gamestart.jpg"
+  },
+  "outro": {
+    "txt": "GameEnd",
+    "type": "img",
+    "url": "gameend.jpg"
+  }
+}

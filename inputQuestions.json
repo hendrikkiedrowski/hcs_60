@@ -1,0 +1,259 @@
+[
+  {
+    "type": "normal",
+    "price": 50,
+    "questions": [
+      {
+        "question": {
+          "txt": "Was ist die Gemeinsamkeit von Helene Fischer und George Orwell?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 1
+        },
+        "answers": [
+          "Journalist / in",
+          "Die Zahl 1984",
+          "Geboren in Russland",
+          "Geboren in British-Indien"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Wie hie\u00df Armstrong, der als erster Mensch auf dem Mond gelandet ist mit Vornamen?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 0
+        },
+        "answers": [
+          "Neil",
+          "Louis",
+          "Melville",
+          "Mike"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Welches war in 2018 die teuerste Aktie Europas?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 0
+        },
+        "answers": [
+          "Lindt & Spr\u00fcngli AG",
+          "Sika AG (Schweizer Spezialchemie) ",
+          "Zoologischer Garten Berlin (Zoo)",
+          "Sachsenmilch AG"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Wozu kam es am 4. 12.2016 in ganz \u00d6sterreich?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 2
+        },
+        "answers": [
+          "Besetztzeichen",
+          "Rufumleitung",
+          "Wahlwiederholung",
+          "Funkloch"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Wer ist der Vater von Lucas Skywalker",
+          "img": ""
+        },
+        "solution": {
+          "correct": 3
+        },
+        "answers": [
+          "Darth Maul",
+          "Darth Sidious",
+          "Darth Spock",
+          "Darth Vader"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Mit welchem Lied gewann ABBA den Eurovision Song Contest?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 2
+        },
+        "answers": [
+          "Dancing Queen",
+          "The Winner Takes ist all",
+          "Waterloo",
+          "Mamma Mia"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Wann gewann ABBA den Song Contest?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 1
+        },
+        "answers": [
+          "1986",
+          "1974",
+          "1982",
+          "1979"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Was bef\u00f6rdert (bittere) Medizin hinunter ",
+          "img": ""
+        },
+        "solution": {
+          "correct": 2
+        },
+        "answers": [
+          "Ein Glas Wasser",
+          "Nase zuhalten",
+          "Ein Teel\u00f6ffel Zucker",
+          "Schlag auf den Hinterkopf "
+        ]
+      },
+      {
+        "question": {
+          "txt": "Welche Figur aus Star Wars gibt es als ausw\u00e4hlbare Stimme eines Navigationsger\u00e4tes?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 1
+        },
+        "answers": [
+          "Darth Vader",
+          "Yoda",
+          "Luke Skywalker ",
+          "Captain Rex"
+        ]
+      },
+      {
+        "question": {
+          "txt": "4 deiner Verwandten wohnein in Hannover, wo auch das Wilhelm Busch Museum angesiedelt ist. Eines seiner wohl bekanntesten Werke ist Max und Moritz: im wievielten Streich spielen die beiden Lausbuben Lehrer L\u00e4mpel \u00fcbel mit?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 2
+        },
+        "answers": [
+          "1. Streich",
+          "3. Streich",
+          "4. Streich",
+          "6. Streich"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Wie ist der b\u00fcrgerliche Name von The Dark Knight?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 1
+        },
+        "answers": [
+          "Bruce Willis",
+          "Bruce Wayne",
+          "Bruce Powers",
+          "Bruce Meier"
+        ]
+      }
+    ],
+    "intro": {
+      "txt": "Runde 1",
+      "type": "img",
+      "url": "runde1.jpg"
+    }
+  },
+  {
+    "type": "reverse",
+    "price": 100,
+    "questions": [
+      {
+        "question": {
+          "txt": "Wer oder was zerlegte wen und was?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 2
+        },
+        "answers": [
+          "Ein Autofahrer eine Ampel",
+          "Ein Schlitten bei Gl\u00e4tte einen Fahrradfahrer ",
+          "Ein Autofahrer einen Roller, nebst dem heutigen Jubilar",
+          "Ein Pferdefuhrwerk einen VW-K\u00e4fer in Bad Honnef"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Wie wurde und wird auch heutzutage Hans-Christian von Bruder Harro dann und wann genannt?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 2
+        },
+        "answers": [
+          "Die Leuchte",
+          "Der Bedenkentr\u00e4ger",
+          "Der \u00dctzerich",
+          "Der Abenteurer"
+        ]
+      },
+      {
+        "question": {
+          "txt": "Was zeichnet unseren heutigen \u201eFestochsen\u201c aus?",
+          "img": ""
+        },
+        "solution": {
+          "correct": 3
+        },
+        "answers": [
+          "Risikobereitschaft ",
+          "Zuh\u00f6renk\u00f6nnen",
+          "Humor, auch hintergr\u00fcndiger",
+          "Abwartenk\u00f6nnen bzw. Geduld haben "
+        ]
+      },
+      {
+        "question": {
+          "txt": "Nenne Nachnamen der Semmlerschen Ahnenreihe",
+          "img": ""
+        },
+        "solution": {
+          "correct": 0
+        },
+        "answers": [
+          "Semmler",
+          "Andersen",
+          "Anderson",
+          "Wuth"
+        ]
+      }
+    ],
+    "intro": {
+      "txt": "Runde 2",
+      "type": "img",
+      "url": "runde2.jpg"
+    }
+  },
+  {
+    "type": "normal",
+    "price": 100,
+    "questions": [],
+    "intro": {
+      "txt": "Runde 3",
+      "type": "img",
+      "url": "runde3.jpg"
+    }
+  }
+]

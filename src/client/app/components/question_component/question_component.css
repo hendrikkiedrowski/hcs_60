@@ -1,0 +1,9 @@
+.questionImage{
+    max-height: 20vh;
+    align-self: center;
+    margin-bottom: -10vh;
+    margin-top: -10vh;
+}
+.questionCaps{
+    padding-top: 15vh;
+}

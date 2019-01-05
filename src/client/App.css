@@ -1,0 +1,69 @@
+.component {
+    display: contents;
+}
+
+.mc {
+    position: relative;
+    top: 5vh;
+}
+
+.jc {
+    position: relative;
+    top: 5vh;
+    left: -5vw;
+}
+
+.qc {
+    position: relative;
+    top: 20vh;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.ac-item {
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+}
+
+.bankSymbol {
+    max-height: 12vh;
+}
+
+.questionValue {
+    padding-top: 2vh;
+}
+
+body {
+    height: 100vh;
+    background-image: url("app/assets/wwd_background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    box-shadow: inset 0 0 0 100vmax rgba(100, 255, 100, 0.1);
+    text-align: center !important;
+}
+
+.jokerButton {
+    border-radius: 100px;
+    background-color: transparent;
+}
+
+.pc-item {
+    min-height: 20vh;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+    min-width: 60vw;
+    font-size: 10vh;
+    border-radius: 20vh;
+}
+
+.hcsHead {
+    font-size: 6vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    font-family: "American Typewriter";
+}

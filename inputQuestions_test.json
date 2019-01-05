@@ -1,0 +1,40 @@
+[{
+  "intro": {
+    "txt": "Wird HCS Millionär?",
+    "type": "img",
+    "url": "img/whcsm.jpg"
+  },
+  "price": 100,
+  "questions": [
+    {
+      "question": {
+        "img": "",
+        "txt": "Who is Hendrik?"
+      },
+      "solution": {
+        "correct": 2
+      },
+      "answers": [
+        "An artist!",
+        "An ignorant StarCraft hater!",
+        "Not a Zerg!",
+        "A friend!"
+      ]
+    },
+    {
+      "question": {
+        "img": "",
+        "txt": "What is real?"
+      },
+      "answers": [
+        "You!",
+        "Me!",
+        "Nothing!",
+        "Enton!"
+      ],
+      "solution": {
+        "correct": 2
+      }
+    }
+  ]
+}]
